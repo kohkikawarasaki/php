@@ -1,0 +1,11 @@
+{
+	"name": "php",
+	"dockerComposeFile": [
+		"../docker-compose.yml"
+	],
+	"service": "php",
+	"workspaceFolder": "/var/www/",
+	"extensions": [
+:	"bmewburn.vscode-intelephense-client"
+	]
+}
